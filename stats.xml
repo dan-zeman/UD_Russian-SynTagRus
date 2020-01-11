@@ -34,7 +34,7 @@
     <tag name="X">511</tag><!-- of, and, the, in, for, de, mignews.com, capture, di, money -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="39">
+  <feats unique="40">
     <feat name="Animacy" value="Anim" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">56311</feat><!-- человек, люди, людей, человека, все, ученые, президента, В., Путин, президент -->
     <feat name="Animacy" value="Inan" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">276666</feat><!-- это, время, года, России, то, лет, году, того, том, все -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">78410</feat><!-- было, был, есть, может, будет, были, быть, была, нет, могут -->
@@ -59,6 +59,7 @@
     <feat name="Mood" value="Ind" upos="AUX,VERB">84629</feat><!-- было, был, есть, может, будет, были, была, нет, могут, будут -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">170688</feat><!-- мы, они, их, все, были, лет, них, нас, эти, всех -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">408676</feat><!-- это, он, я, было, был, его, то, может, время, года -->
+    <feat name="NumType" value="Card" upos="NUM">18266</feat><!-- один, несколько, два, многие, три, 1, 10, одной, двух, многих -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">10925</feat><!-- я, мы, нас, мне, меня, нам, скажем, думаю, знаю, будем -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">3738</feat><!-- вы, ты, вас, вам, тебя, тебе, вами, см., знаете, можете -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">52236</feat><!-- он, они, его, есть, может, она, будет, их, них, ее -->

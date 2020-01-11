@@ -41,6 +41,11 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 
 
 #Changelog
+
+* 2020-01-11 **IWPT Shared Task Data**
+  * Enhanced graph: Added case information to oblique relations.
+  * Enhanced graph: Propagated parents (but not shared dependents) across coordination.
+
 *2019-05-15 v2.4
   * enhanced representation fixed ('бы')
   * AUX for aux 'бы'
