@@ -46,6 +46,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   * Enhanced graph: Added case information to oblique relations.
   * Enhanced graph: Propagated parents (but not shared dependents) across coordination.
   * Enhanced graph: Added external subjects of open clausal complements.
+  * Enhanced graph: Transformed relations between relative clauses and modified nouns.
 
 *2019-05-15 v2.4
   * enhanced representation fixed ('бы')

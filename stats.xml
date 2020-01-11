@@ -34,7 +34,7 @@
     <tag name="X">511</tag><!-- of, and, the, in, for, de, mignews.com, capture, di, money -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="40">
+  <feats unique="48">
     <feat name="Animacy" value="Anim" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">56311</feat><!-- человек, люди, людей, человека, все, ученые, президента, В., Путин, президент -->
     <feat name="Animacy" value="Inan" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">276666</feat><!-- это, время, года, России, то, лет, году, того, том, все -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">78410</feat><!-- было, был, есть, может, будет, были, быть, была, нет, могут -->
@@ -64,6 +64,14 @@
     <feat name="Person" value="2" upos="AUX,PRON,VERB">3738</feat><!-- вы, ты, вас, вам, тебя, тебе, вами, см., знаете, можете -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">52236</feat><!-- он, они, его, есть, может, она, будет, их, них, ее -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">452</feat><!-- не, несмотря, ни, невзирая, нет, нет-нет -->
+    <feat name="Poss" value="Yes" upos="DET">8758</feat><!-- его, их, ее, свои, своей, свою, своих, нашей, своего, свое -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">21340</feat><!-- это, то, том, этом, того, этого, тем, эти, этот, этой -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">3351</feat><!-- некоторые, что-то, некоторых, кто-то, любой, один, какой-то, одни, какие-то, одной -->
+    <feat name="PronType" value="Int,Rel" upos="DET,PRON">9837</feat><!-- что, которые, который, кто, которых, которая, которой, чем, которого, чего -->
+    <feat name="PronType" value="Neg" upos="DET,PRON">1308</feat><!-- ничего, никто, никаких, никакого, никого, никакой, никому, ничем, никакие, ничто -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">34858</feat><!-- он, его, я, их, мы, они, ее, она, них, нас -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">6169</feat><!-- все, всех, всего, всем, каждый, всей, весь, всю, вся, всё -->
+    <feat name="Reflex" value="Yes" upos="DET,PRON">4810</feat><!-- себя, себе, свои, своей, свою, своих, своего, собой, свое, свой -->
     <feat name="Tense" value="Fut" upos="VERB">5698</feat><!-- скажем, станет, придется, сможет, смогут, удастся, окажется, пойдет, позволит, станут -->
     <feat name="Tense" value="Past" upos="AUX,VERB">57596</feat><!-- было, был, были, была, стал, сказал, стало, стали, мог, заявил -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">43717</feat><!-- есть, может, будет, нет, могут, будут, является, говорит, стоит, идет -->
